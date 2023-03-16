@@ -1,0 +1,4 @@
+"id","name","dob","doj","gender","designation","manager","picture","password","email","created_at","updated_at"
+"1","Gagan","2018-06-12","2023-03-12","male","gdf","dfgdf","1678600446.png","$2y$10$Xfh4wklK0khvwoYFWR9INeBVkrwfvc84MRvgtObRfmtUlBf08xP2.","gautamgagan525@gmail.com","2023-03-12 05:54:06","2023-03-12 05:54:06"
+"2","akash","2020-04-29","2023-03-12","male","manager","gagan","1678601268.png","$2y$10$z9zGaNbJcVhm8wgTQtgc1OlY9JTMr0Pr5F0gBEFB.ClnAmSO39v4K","akashgatuam@gmail.com","2023-03-12 06:07:48","2023-03-12 06:07:48"
+"3","pooname","2019-04-30","2023-03-12","female","associate","nitika","1678603711.png","$2y$10$G5a2DsUQqTMabI5H9vl3a.um9d9vjsRADCcgvgEeJwXUtl97BZX8m","poonam@gmail.com","2023-03-12 06:48:31","2023-03-12 06:48:31"

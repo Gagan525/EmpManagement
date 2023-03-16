@@ -1,0 +1,1 @@
+<a href="{{ $authUrl }}">Authorize with Google</a>
